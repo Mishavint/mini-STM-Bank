@@ -1,1 +1,1 @@
-rootProject.name = "STMBank"
+rootProject.name = "mini STM Bank"
