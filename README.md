@@ -1,5 +1,5 @@
 # What is it? 
-It is web bank, where you can keep your money
+This is an educational project, web bank, where you can store your money
 
 ## Rest api
 If you want to get info about your account, you have to call Get user
