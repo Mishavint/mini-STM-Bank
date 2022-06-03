@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/mishavint/mini-stm-bank/badge)](https://www.codefactor.io/repository/github/mishavint/mini-stm-bank)
+
 # What is it? 
 This is an educational project, web bank, where you can store your money
 
